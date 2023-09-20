@@ -13,7 +13,5 @@
 ## Tecnologia que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
- <img align="center"alt="Python" src="	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</div><br/>    
 
 📚 Além disso, estou cursando Análise e Desenvolvimento de Sistemas em uma faculdade na modalidade de Ensino a Distância. Essa formação acadêmica complementa minha experiência prática e me capacita a lidar com desafios complexos no desenvolvimento de sistemas.
