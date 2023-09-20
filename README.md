@@ -1,13 +1,10 @@
 ###  Olá, Eu sou Rogério da Silva Menzinger!👋
 📅 Data de Nascimento: 08/08/1989
 
-💻 Apaixonado por programação e aprendendo Python
-
 🎓 Graduando em Análise e Desenvolvimento de Sistemas - Ensino a Distância
 
-🌟 Sou entusiasta de tecnologia e estou sempre em busca de novos desafios e conhecimentos. Atualmente, estou focado em aprender programação na linguagem Python e aplicar esses conhecimentos em projetos reais.
+🌟 Sou entusiasta de tecnologia e estou sempre em busca de novos desafios e conhecimentos.
 
-🚀 Aqui no meu perfil do GitHub, você encontrará uma variedade de projetos e desafios em Python que estou trabalhando. Estou sempre aberto a colaborações e feedbacks para aprimorar minhas habilidades e aprender com outros desenvolvedores.
 
 ![dkmenzinger's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkmenzinger&show_icons=true&theme=tokyonight)
 
