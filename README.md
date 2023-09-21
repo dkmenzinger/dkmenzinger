@@ -14,4 +14,4 @@
 
 <div style="display: inline_block"><br/>
 
-📚 Além disso, estou cursando Análise e Desenvolvimento de Sistemas em uma faculdade na modalidade de Ensino a Distância. Essa formação acadêmica complementa minha experiência prática e me capacita a lidar com desafios complexos no desenvolvimento de sistemas.
+📚 Além disso, estou cursando Análise e Desenvolvimento de Sistemas em uma faculdade. Essa formação acadêmica complementa minha experiência prática e me capacita a lidar com desafios complexos no desenvolvimento de sistemas.
