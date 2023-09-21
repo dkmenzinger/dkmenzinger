@@ -1,7 +1,7 @@
 ###  Olá, Eu sou Rogério da Silva Menzinger!👋
 📅 Data de Nascimento: 08/08/1989
 
-🎓 Graduando em Análise e Desenvolvimento de Sistemas - Ensino a Distância
+🎓 Graduando em Análise e Desenvolvimento de Sistemas
 
 🌟 Sou entusiasta de tecnologia e estou sempre em busca de novos desafios e conhecimentos.
 
