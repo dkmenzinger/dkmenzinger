@@ -4,10 +4,3 @@
 🎓 Graduando em Análise e Desenvolvimento de Sistemas
 
 ![dkmenzinger's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkmenzinger&show_icons=true&theme=tokyonight)
-
-
-
-## Tecnologia que eu uso no meu dia
-
-<div style="display: inline_block"><br/>
-
