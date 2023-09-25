@@ -3,9 +3,6 @@
 
 🎓 Graduando em Análise e Desenvolvimento de Sistemas
 
-🌟 Sou entusiasta de tecnologia e estou sempre em busca de novos desafios e conhecimentos.
-
-
 ![dkmenzinger's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkmenzinger&show_icons=true&theme=tokyonight)
 
 
